@@ -31,12 +31,12 @@ I've contributed with code to all the pinned repos below and many others:
 
 If you're looking for the things I created:
 
-📖 To read some thoughts about programming [@razum2um](https://twitter.com/razum2um), on twitter (i don't tweet random stuff)
+🏗️ Projects [0x0.cx](https://github.com/0x0-cx) & [awesome-clojure](https://github.com/razum2um/awesome-clojure)
 
-🎧 Or you can listen to something about distributed systems of [HardcodeFm](https://hardcode.fm/)
+📖 Words about programming on [twitter](https://twitter.com/razum2um) (only things, that make sense)
 
-👨‍🏫 To get some mentoring go to [@razum2um](https://exercism.org/profiles/razum2um) on exercism.org
+🎧 Sounds about distributed systems of [HardcodeFm](https://hardcode.fm/)
 
-🧑‍💻 For my codes go to the [RubyGems](https://rubygems.org/profiles/razum2um), or [Clojars](https://clojars.org/users/razum2um), or [Github Sources](https://github.com/razum2um?tab=repositories&q=&type=source&language=&sort=stargazers). Here is a small summary:
+🧑‍💻 Libraries published on [RubyGems](https://rubygems.org/profiles/razum2um), or [Clojars](https://clojars.org/users/razum2um), or available [Github Sources](https://github.com/razum2um?tab=repositories&q=&type=source&language=&sort=stargazers). Here is a small summary:
 
 ![](https://raw.githubusercontent.com/razum2um/jstrieb-github-stats/master/generated/overview.svg#gh-light-mode-only)
