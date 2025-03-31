@@ -40,3 +40,4 @@ If you're looking for the things I created:
 🧑‍💻 Libraries published on [RubyGems](https://rubygems.org/profiles/razum2um), or [Clojars](https://clojars.org/users/razum2um), or available [Github Sources](https://github.com/razum2um?tab=repositories&q=&type=source&language=&sort=stargazers). Here is a small summary:
 
 ![](https://raw.githubusercontent.com/razum2um/jstrieb-github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/razum2um/jstrieb-github-stats/master/generated/languages.svg#gh-light-mode-only) 
