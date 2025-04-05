@@ -2,10 +2,11 @@
 
 I'm a passionate open-source contributor, and believe that improving the things together, not re-inventing the wheel, is the true spirit of OpenSource.
 
-I've contributed with code to all the pinned repos below and many others:
+I've contributed with code to all the pinned repos below and many others across Ruby, Go, Java, Python and Clojure ecosystems:
 
 [rails/rails](https://github.com/rails/rails/commits?author=razum2um),
 [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum/commits?author=razum2um),
+[spinnaker/spinnaker](https://github.com/spinnaker/spinnaker/commits?author=razum2um),
 [universal-ctags/ctags](https://github.com/universal-ctags/ctags/commits?author=razum2um),
 [rubyjedi/soap4r](https://github.com/rubyjedi/soap4r/commits?author=razum2um),
 [capistrano/capistrano](https://github.com/capistrano/capistrano/commits?author=razum2um),
@@ -36,8 +37,3 @@ If you're looking for the things I created:
 📖 Words about programming on [twitter](https://twitter.com/razum2um) (only things, that make sense)
 
 🎧 Sounds about distributed systems of [HardcodeFm](https://hardcode.fm/)
-
-🧑‍💻 Libraries published on [RubyGems](https://rubygems.org/profiles/razum2um), or [Clojars](https://clojars.org/users/razum2um), or available [Github Sources](https://github.com/razum2um?tab=repositories&q=&type=source&language=&sort=stargazers). Here is a small summary:
-
-![overview](https://raw.githubusercontent.com/razum2um/jstrieb-github-stats/master/generated/overview.svg)
-![languages](https://raw.githubusercontent.com/razum2um/jstrieb-github-stats/master/generated/languages.svg)
